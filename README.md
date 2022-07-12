@@ -6,7 +6,7 @@ Onboarding Instruction for Greenbaum Lab new hire
 
 Once you claim your account, you will have an MSK ID and MSK email address. Then, move onto the next steps.**
 
-**The information below can also be found on the Onboarding Checklist - https://docs.google.com/spreadsheets/d/10gAa-pEPH9-BLkUXXCePZH2yJglbfRnWq-WGHMjl4Pk/edit#gid=0 
+**The information below can also be found on the Onboarding Checklist - https://docs.google.com/spreadsheets/d/10gAa-pEPH9-BLkUXXCePZH2yJglbfRnWq-WGHMjl4Pk/edit#gid=0   request access from Mike Li (lih7@mskcc.org)
 
 ## MSK Ticket System
 MSK HR/IT ticket Management System (create software request, IT related tickets,time management,etc)
