@@ -2,7 +2,7 @@
 Onboarding Instruction for Greenbaum Lab new hire
 
 ## MSK Account
-**First, claim your MSK Account – you should have received an email that looks something like this:
+**First, claim your MSK Account – you should have received a notification email
 
 Once you claim your account, you will have an MSK ID and MSK email address. Then, move onto the next steps.**
 
