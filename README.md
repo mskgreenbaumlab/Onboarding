@@ -84,6 +84,7 @@ Fill out the PI and admin fields with Dr. Greenbaum's information.
 The Cost Center number is on your ID Badge.
 Fund Number: 50515
 Cost Number: please ask admin (Cynthia berryc@mskcc.org or Cristina raduc@mskcc.org )
+(the cost center contains all the funds of the lab.the cc of the Greenbaum Lab is 50515, but it has over 6 funds.)
 NOTE: if the "cat" command does not work, you can also try "type id_rsa.pub" to retrieve your public key.How to get your SSH Public Key - https://hpcdocs.mskcc.org/display/CLUS/Secure+Shell+SSH
 
 
