@@ -82,7 +82,8 @@ Use this link to request an HPC Account - http://actg.mskcc.org/contact-new-user
 For HPC cluster, Dr. Greenbaum's lab uses Juno.
 Fill out the PI and admin fields with Dr. Greenbaum's information.
 The Cost Center number is on your ID Badge.
-Fund Number: CN/FN: 50515/17553
+Fund Number: 50515
+Cost Number: please ask admin (Cynthia berryc@mskcc.org or Cristina raduc@mskcc.org )
 NOTE: if the "cat" command does not work, you can also try "type id_rsa.pub" to retrieve your public key.How to get your SSH Public Key - https://hpcdocs.mskcc.org/display/CLUS/Secure+Shell+SSH
 
 
