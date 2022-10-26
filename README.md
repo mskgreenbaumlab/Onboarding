@@ -56,10 +56,10 @@ Desktop app: https://slack.com/downloads
 
 
 ## VPN Access
-Contact MSK SPOT 646.227.3337 or techspot@mskcc.org to apply for VPN access. 
+Contact MSK SPOT 646.227.3337 or techspot@mskcc.org to apply for VPN access. <br>
 If you already have VPN access and need to request VPN access for someone else. use this link to request for VPN Access - https://thespot.mskcc.org/esc?id=sc_cat_item&sys_id=6db5368fdb21d0508b78a2ad13961958 <br>
-Depending on an Employee or Non-Employee Request, fill out the fields with the proper information (questions that ask "describe your request", "summary", "special instructions", etc. can be filled out with a generic overview of the request).
-After submitting your ticket, Dr. Greenbaum will have to approve the request before moving forward.
+Depending on an Employee or Non-Employee Request, fill out the fields with the proper information (questions that ask "describe your request", "summary", "special instructions", etc. can be filled out with a generic overview of the request).<br>
+After submitting your ticket, Dr. Greenbaum will have to approve the request before moving forward.<br>
 Then, follow the instructions on Global Protect: https://mskcc.ent.box.com/v/gp-install-instructions
 
 
