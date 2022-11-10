@@ -77,6 +77,11 @@ Link - https://solportal.mskcc.org/EnterpriseDevTools
 
 Use this link to request for Github/JIRA/Confluence - https://thespot.mskcc.org/com.glideapp.servicecatalog_cat_item_view.do?v=1&sysparm_id=45f0bf4cdbc07810636a0e85ca9619b9&sysparm_link_parent=3e82ef80db211090892ce02b13961946&sysparm_catalog=e0d08b13c3330100c8b837659bba8fb4&sysparm_catalog_view=catalog_Service_Catalog
 
+## Github
+Private repository for Greenbaum lab. It hosts in-house pipelines and common utilities used on HPC. Request access to github from Mike ( lih7@mskcc.org ). This repository is separate from MSKCC github. 
+
+Greenbaum lab github: https://github.com/mskgreenbaumlab
+
 
 ## HPC Account
 Use this link to request an HPC Account - http://actg.mskcc.org/contact-new-user-form/
@@ -92,10 +97,6 @@ Cost Number: 17553 (please confirm with Cynthia berryc@mskcc.org or Cristina rad
 NOTE: if the "cat" command does not work, you can also try "type id_rsa.pub" to retrieve your public key.How to get your SSH Public Key - https://hpcdocs.mskcc.org/display/CLUS/Secure+Shell+SSH
 
 
-## Github
-Private repository for Greenbaum lab. It hosts in-house pipelines and common utilities used on HPC. Request access to github from Mike ( lih7@mskcc.org ). This repository is separate from MSKCC github. 
-
-Greenbaum lab github: https://github.com/mskgreenbaumlab
 
 
 
