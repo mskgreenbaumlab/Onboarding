@@ -116,10 +116,20 @@ OnDemand provides an integrated, single access point for all of our HPC resource
 
 Website https://juno-interact01.mskcc.org/pun/sys/dashboard
 
+## Troubleshooting
+Please follow MRE (Minimal Reproducible Example) principle to ask help for troubleshooting.
+https://stackoverflow.com/help/minimal-reproducible-example
+https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example
 
 
 ## Storage
-
+- Juno
+Work Storage (430TB):  /juno/work/greenbaum
+Archived warm storage (400TB): /oscar/warm/greenbaum
+New Warm Storage (70TB): /ifs/rtsia01/greenbaum   (log in from juno-xfer01 by ssh juno-xfer01)
+- Lilac
+Work Storage (20TB): /data/greenbaum
+Warm Storage (400TB): /oscar/warm/greenbaum
 
 ### MSK BOX
 Link - https://mskcc.ent.box.com/folder/0
