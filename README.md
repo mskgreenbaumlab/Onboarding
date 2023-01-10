@@ -117,8 +117,9 @@ OnDemand provides an integrated, single access point for all of our HPC resource
 Website https://juno-interact01.mskcc.org/pun/sys/dashboard
 
 ## Troubleshooting
-Please follow MRE (Minimal Reproducible Example) principle to ask help for troubleshooting.
+Please follow MRE (Minimal Reproducible Example) principle to ask help for troubleshooting.<\br>
 https://stackoverflow.com/help/minimal-reproducible-example
+
 https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example
 
 
