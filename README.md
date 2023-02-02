@@ -100,7 +100,7 @@ NOTE: if the "cat" command does not work, you can also try "type id_rsa.pub" to 
 ## HPC Configuration
 
 ### Environment Module
-To use lab's shared environment modules on juno/lilac, create following file ~/.modulerc
+To use lab's shared environment modules on juno/lilac, create following file `~/.modulerc`
 ```
 #%Module
 prepend-path MODULEPATH /juno/work/greenbaum/modulefiles
@@ -109,7 +109,7 @@ prepend-path MODULEPATH /juno/work/greenbaum/modulefiles
 ### Conda Environment
 to use lab's conda environment on Juno
 
-add following lines to ~/.bashrc to initialize lab's conda 
+add following lines to `~/.bashrc` to initialize lab's conda 
 
 ```
 # >>> conda initialize >>>
@@ -132,7 +132,7 @@ then `source ~/.bashrc`  to initialize lab's conda in current session. no need f
 
 
 ### LD_LIBRARY_PATH
-The lab has a shared library for shared applications. You can add this environment variable into ~/.bashrc file so dynamic link loader can find it for your application.
+The lab has a shared library for shared applications. You can add this environment variable into `~/.bashrc` file so dynamic link loader can find it for your application.
 
 ```
 # shared library for the lab
