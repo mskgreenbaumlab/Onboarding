@@ -100,7 +100,7 @@ NOTE: if the "cat" command does not work, you can also try "type id_rsa.pub" to 
 ## HPC Configuration
 
 ### Environment Module
-To use lab's shared environment modules on juno/lilac, create following file `~/.modulerc`
+To use lab's shared environment modules on juno/lilac, create following file `~/.modulerc`. then paste following lines in it.
 ```
 #%Module
 prepend-path MODULEPATH /juno/work/greenbaum/modulefiles
