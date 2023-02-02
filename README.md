@@ -97,8 +97,47 @@ Cost Number: 17553 (please confirm with Cynthia berryc@mskcc.org or Cristina rad
 NOTE: if the "cat" command does not work, you can also try "type id_rsa.pub" to retrieve your public key.How to get your SSH Public Key - https://hpcdocs.mskcc.org/display/CLUS/Secure+Shell+SSH
 
 
+## HPC Configuration
+
+### Environment Module
+To use lab's shared environment modules on juno/lilac, create following file ~/.modulerc
+```
+#%Module
+prepend-path MODULEPATH /juno/work/greenbaum/modulefiles
+```
+
+### Conda Environment
+to use lab's conda environment on Juno
+
+add following lines to ~/.bashrc to initialize lab's conda 
+
+```
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/work/greenbaum/software/Miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/work/greenbaum/software/Miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/work/greenbaum/software/Miniconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/work/greenbaum/software/Miniconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+```
+
+then `source ~/.bashrc`  to initialize lab's conda in current session. no need for future ssh session.
 
 
+### LD_LIBRARY_PATH
+The lab has a shared library for shared applications. You can add this environment variable into ~/.bashrc file so dynamic link loader can find it for your application.
+
+```
+# shared library for the lab
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/work/greenbaum/software/lib/
+```
 
 ## Grafana
 Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources.
