@@ -84,7 +84,7 @@ Greenbaum lab github: https://github.com/mskgreenbaumlab
 
 
 ## HPC Account
-Use this link to request an HPC Account - http://actg.mskcc.org/contact-new-user-form/
+Use this link to request an HPC Account - [SPOT](https://rts.mskcc.org/service)
 For HPC cluster, Dr. Greenbaum's lab uses Juno.
 Fill out the PI and admin fields with Dr. Greenbaum's information.
 The Cost Center number is on your ID Badge.
