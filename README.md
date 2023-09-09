@@ -41,7 +41,7 @@ If you forgot to check in or out and need to add a time record, then go to the "
 ## Communication
 ### Slack (primary method of communication)
 Fill out this form requesting access for Slack, Box, and GSuite - https://thespot.mskcc.org/esc?id=sc_cat_item&sys_id=6613a2cadbdf5c10636a0e85ca9619d8
-Reach out to Tiffany Cordero (corderot@mskcc.org) regarding a Slack request. Once she invites you, you can use your MSK email to join the Slack.
+Reach out to Cristina Radu (raduc@mskcc.org) regarding a Slack request. Once she invites you, you can use your MSK email to join the Slack.
 Workspace name: greenbaumlab.slack.com
 Teams
 Some labs use Teams for instant message or file sharing. Some people prefer it because it's integrated with other Microsoft products (eg. file sharing, calendar).
